@@ -5,4 +5,4 @@ Professor: [Bo-ching Su](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=90117
 ## Reference Material
 - [Convex Optimization](https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622) course videos on Stanford University Channel on YouTube.
 - [Textbook](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) written by Lieven Vandenberghe and Stephen P. Boyd.
-
+- [CVXPY Package](https://www.cvxpy.org) is a Python-embedded modeling language for convex optimization problems, which is strongly useful in this course and is able to solve other optimization problems.
